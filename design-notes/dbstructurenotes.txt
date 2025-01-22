@@ -1,0 +1,27 @@
+USER
+id
+username
+email
+password
+fullname
+bio
+profilepicture
+forgotpasswordtoken
+
+
+LIKE LIST
+userId
+postId
+isLike
+
+POSTING
+id
+caption
+image
+date
+
+COMMENTS
+id
+userId
+postingId
+comments
